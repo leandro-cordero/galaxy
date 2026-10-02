@@ -2,7 +2,7 @@
 
 ## Leandro Cordero
 Watch this live at:
-https://galaxy-creator-brown.vercel.app/
+https://galaxy-creator-leacor.vercel.app/
 
 ``` bash
 # Technologies:
